@@ -1,0 +1,17 @@
+00-jumphost      10.1.6.10
+01-k8s-master    10.1.6.11
+01-k8s-worker1   10.1.6.12
+01-k8s-worker2   10.1.6.13
+02-hk8s-master   10.1.6.14
+02-hk8s-worker1  10.1.6.15
+02-hk8s-worker2  10.1.6.16
+03-bk8s-master   10.1.6.17
+03-bk8s-worker1  10.1.6.18
+04-wk8s-master   10.1.6.19
+04-wk8s-worker1  10.1.6.20
+04-wk8s-worker2  10.1.6.21
+05-ek8s-master   10.1.6.22
+05-ek8s-worker1  10.1.6.23
+05-ek8s-worker2  10.1.6.24
+06-ik8s-master   10.1.6.25
+06-ik8s-worker1  10.1.6.26
