@@ -308,7 +308,7 @@ az vm create --resource-group $RG --location $LOCATION \
 # 06-ik8s  1 master 1 worker | loopback
 #====================================
 az vm create --resource-group $RG --location $LOCATION \
---name 03-ik8s-master \
+--name 06-ik8s-master \
 --admin-username $VMUSERNAME \
 --admin-password $VMPASSWORD \
 --authentication-type all \
